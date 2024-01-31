@@ -1,0 +1,39 @@
+.create_Post{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+form textarea::placeholder{
+  color: black;
+}
+
+.create_Post h1{
+    text-align: center;
+    font-size: 2.2rem;
+   
+    margin-bottom: 1rem;
+}
+
+.create_Post p{
+    margin-top: 5rem;
+    color: black;
+    margin-bottom: 2rem;
+    font-size: 2.2rem;
+}
+
+div h2{
+    align-items: center;
+}
+
+.create_post form {
+    background-color:#838080;
+    padding: 1rem;
+    margin-top: 2em;
+    border-radius: 15px;
+    box-shadow: rgb(0, 0, 0,0.5) 2px 3px 15px 1px;
+}
+
+.texta{
+    color: blanchedalmond;
+}

@@ -1,0 +1,36 @@
+.register{
+    text-align: center;
+}
+
+
+.register p{
+    color: #aaa;
+}
+
+div h1,div p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.Register p{
+    margin-top: 1rem;
+    color: black;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+
+.Register form {
+    background-color:#838080;
+    padding: 1rem;
+    margin-top: 2em;
+    border-radius: 15px;
+    box-shadow: rgb(0, 0, 0,0.5) 2px 3px 15px 1px;
+    height: 50%;
+}
+
+.Register span{
+    margin-bottom: 1rem;
+}
